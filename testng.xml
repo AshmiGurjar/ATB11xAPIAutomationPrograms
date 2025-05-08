@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pincode Verification project">
+    <test verbose="2" preserve-order="true" name="/ATB11xAPIAutomationPrograms">
+        <classes>
+            <class name="com.thetestingacademy.ex_03_TestNG_AllureReports.Lab06_TestPositiveNegative">
+            </class>
+        </classes>
+    </test>
+</suite>
